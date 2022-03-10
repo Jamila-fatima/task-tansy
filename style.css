@@ -1,0 +1,243 @@
+/* *{
+    overflow: hidden;
+} */
+.headSec{
+    background-image: url('assets/images/WXmHwPcFamo (1).png');
+    height: 900px !important;
+    width: 100%;
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar-nav{
+ 
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.feature-sec h4{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 120%;
+   
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.25px;
+    color: #143D55;
+}
+.nav-item{
+    padding: 11px 18px;
+}
+.collapse {
+    width: 100%;
+   
+}
+.collapse .navbar-nav{
+    margin: 0px !important;
+}
+
+.navbar-brand{
+    width: 20%;
+}
+.center-nav{
+    display: flex;
+    width: 50%;
+   
+}
+.before-ul{
+    width: 100%;
+    
+}
+.before-ul ul{
+    width: 100%;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+}
+.before-ul ul li 
+{
+    
+    padding: 5px 30px;
+}
+.myNav{
+    font-family: Herr Von Muellerhoff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 21px;
+    color: #143D55;
+}
+.call-sec{
+    display: flex;
+   
+    width: 28%;
+    
+    justify-content: end;
+}
+.call-sec p{
+margin: 0 !important;
+}
+.face-logo{
+    width: 5%;
+    height: 40px;
+    padding: 1px 10px;
+}
+.imgcar{
+    width: 37%;
+    padding: 37px;
+    /* position: absolute; */
+    width: 645px;
+    height: 243px;
+    left: 38px;
+    top: 203px;
+    background: rgba(255, 255, 255, 0.6);
+}
+.feature-sec{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
+.cardsec-row{
+    width: 100% !important;
+}
+.beautify{
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.btn{
+    border: none;
+}
+
+.mycard{
+   
+flex-direction: column;
+align-items: flex-start;
+padding: 20px 24px;
+width: 372.6px;
+}
+.cardSec{
+    overflow: hidden;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.mycard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-p{
+    padding: 18px 48px;
+}
+.imgandCard{
+    display: flex;
+    align-items: center;
+    padding: 6px;
+}
+.flex{
+   padding: 20px;
+   
+    width: 500px;
+}
+.imgban{
+    padding: 0px 0px 12px 29px;
+}
+.btn{
+    width: -webkit-fill-available;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+    padding: 12px 16px;
+    /* position: static; */
+    /* width: 324px; */
+    /* height: 61px; */
+    /* left: 0px; */
+    /* top: 141px; */
+    background: #143D55;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 16px 0px;
+}
+.imgcar-btn{
+    display: flex;
+    /* flex-direction: row; */
+    /* justify-content: center; */
+    align-items: center;
+    padding: 16px 32px;
+    /* position: absolute; */
+    width: 318px;
+    /* height: 61px; */
+    /* left: 32px; */
+    /* top: 141px; */
+    background: #143D55;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+}
+.imgcard-title{
+   
+    font-size: 34px;
+
+}
+.card{
+    border: none !important;
+
+}
+.card-body{
+    padding: 2rem 0rem;
+}
+.homesec{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+
+  }
+  
+  .homeimg img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .abs-card{
+      position: absolute;
+  }
+  .footer-con{
+   
+    width: 100%;
+    height: 300px;
+    color: white;
+
+    background: #143D55;
+  }
+  .foot-ul{
+    list-style-type: none;
+    padding: 42px 0px;
+    list-style-type: none;
+    font-family: Mulish;
+  }
+  .foot-list{
+    padding-bottom: 12px;
+  }
+  .card-text{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    
+    letter-spacing: 0.25px;
+    
+    /* 60 */
+    
+    color: rgba(0, 0, 0, 0.6);
+    
+  }
